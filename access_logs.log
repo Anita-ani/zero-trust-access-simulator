@@ -1,0 +1,2 @@
+2025-04-14 07:05:28,097 - INFO - User: anita001, Role: manager, Location: Abuja, Device: Trusted, Resource: financial_report, Action: read, Decision: False, Reason: No policy found for resource: financial_report
+2025-04-14 07:15:36,329 - INFO - User: string, Role: string, Location: string, Device: string, Resource: string, Action: string, Decision: False, Reason: No policy found for resource: string
