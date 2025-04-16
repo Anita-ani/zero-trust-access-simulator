@@ -69,7 +69,7 @@ uvicorn main:app --reload
 **Step 1:** Add your API key in the Swagger UI like:
 
 ```
-Bearer c7681f2a5dee52a3e21f72db2dfbd1c8b685a45783bb8549682a4de9be0297ec
+Bearer API_KEY
 ```
 
 ---
